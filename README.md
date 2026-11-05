@@ -12,16 +12,22 @@ The system provides a sleek, modern UI for restaurant promotion, table booking C
 Features
 
 • Fully responsive hero section with dynamic background image and overlay.
+
 • Custom CSS keyframe rotation animation for main food imagery.
+
 • Interactive navigation bar with custom button styling.
+
 • FontAwesome icon integration for visual menu cues.
+
 • Clean typography and attractive CTA buttons.
 
 Project Structure
 
 restaurant-landing-page/
 ├── index.html        # Main HTML layout
+
 ├── style.css         # Styling and keyframe animations
+
 └── Images/           # Image assets
     ├── background.jpeg
     └── hero.jpeg
