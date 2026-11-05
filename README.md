@@ -9,6 +9,10 @@ This is a modern, responsive Restaurant Landing Page built using pure HTML5 and 
 
 The system provides a sleek, modern UI for restaurant promotion, table booking CTA, and menu navigation.
 
+
+
+
+
 Features:
 
 • Fully responsive hero section with dynamic background image and overlay.
@@ -20,6 +24,11 @@ Features:
 • FontAwesome icon integration for visual menu cues.
 
 • Clean typography and attractive CTA buttons.
+
+
+
+
+
 
 Project Structure:
 
